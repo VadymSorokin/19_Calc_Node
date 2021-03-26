@@ -1,0 +1,19 @@
+{
+  "name": "19_calc_nodejs",
+  "version": "1.0.0",
+  "description": "calc Node.js ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VadymSorokin/19_Calc_Node.git"
+  },
+  "author": "His Majesty Vadym Sorokin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VadymSorokin/19_Calc_Node/issues"
+  },
+  "homepage": "https://github.com/VadymSorokin/19_Calc_Node"
+}
